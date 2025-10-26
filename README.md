@@ -36,3 +36,15 @@ The dashboard gathers data from two primary sources:
 - File size optimization using DAX Studio
 - Data integration from various sources like Excel/CSV files, MySQL database, etc.
 
+--
+## ✨ Conclusion
+
+The **Business Insights 360** Report provides strategic insights across all critical Business Areas. 
+With a clear view into Finance, Sales, Marketing, Supply Chain, and Executive KPIs, stakeholders can make informed decisions that drive success.
+
+---
+
+### Connect with Me
+
+If you have feedback or would like to connect, visit [LinkedIn Profile](my https://www.linkedin.com/in/khushboo-prasad-bb6a391b0/).
+
