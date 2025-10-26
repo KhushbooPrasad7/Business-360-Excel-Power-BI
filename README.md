@@ -26,15 +26,15 @@ The dashboard gathers data from two primary sources:
 
 ## Skills Learned
 
-- Power BI data modeling
-- DAX calculations
-- Compelling visualization techniques
-- Data interpretation
-- Dashboard design principles
-- User-centric design
-- Stakeholder communication
-- File size optimization using DAX Studio
-- Data integration from various sources like Excel/CSV files, MySQL database, etc.
+* Data Cleaning & Transformation using Power Query
+* Creating Date Table
+* Data Modeling (Snowflake Schema)
+* Creating DAX Measures, Calculated Columns
+* Creating Dynamic Titles for visuals
+* Used Bookmarks and Tooltips to switch between visuals
+* Buttons for Page Navigation
+* Publishing report on Power BI Service
+* Setting up Personal Gateway to set up the Auto Refresh of Data
 
 --
 ## ✨ Conclusion
